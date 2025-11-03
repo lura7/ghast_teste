@@ -1,0 +1,17 @@
+<svg width="159" height="159" viewBox="0 0 159 159" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect x="0.38916" y="158.867" width="158.218" height="158.218" transform="rotate(-90 0.38916 158.867)" fill="#B9F5FF"/>
+<rect x="0.38916" y="158.867" width="158.218" height="158.218" transform="rotate(-90 0.38916 158.867)" fill="url(#pattern0_129_3)"/>
+<defs>
+<pattern id="pattern0_129_3" patternUnits="userSpaceOnUse" patternTransform="matrix(84.32 0 0 84.32 0.38916 158.867)" preserveAspectRatio="none" viewBox="0 0 248 248" width="1" height="1">
+<g id="pattern0_129_3_inner">
+<g opacity="0.15" clip-path="url(#clip0_129_3)">
+<path d="M248.452 247.126L124.521 247.126L124.521 123.195L0.590691 123.195L0.590696 0.429677" stroke="white" stroke-width="40"/>
+<path d="M124.452 371.126L0.521434 371.126L0.52144 247.195L-123.409 247.195L-123.409 124.43" stroke="white" stroke-width="40"/>
+<path d="M372.383 123.778L248.452 123.778L248.452 -0.152914L124.522 -0.15292L124.522 -122.919" stroke="white" stroke-width="40"/>
+</g>
+</g>
+</pattern><clipPath id="clip0_129_3">
+<rect width="248" height="248" fill="white"/>
+</clipPath>
+</defs>
+</svg>
