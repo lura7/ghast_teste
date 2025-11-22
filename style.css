@@ -1469,7 +1469,9 @@ body.contato-page{
     max-width:80%;
     margin-top:1rem;
  }
-
+.exp img{
+  max-width:80%;
+}
   .about iframe{
     width:95%;
  }
@@ -1650,6 +1652,9 @@ body.contato-page{
   }
 }
 
+.exp img{
+  max-width:70%;
+}
 
 .home-video{
   width:100%; 
